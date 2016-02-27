@@ -1,2 +1,2 @@
-# typings-react-autolink
-react-autolink.d.ts
+# typings-react-autolink-text
+react-autolink-text.d.ts
